@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my Network blog
+
+
+### Capture The Flag
+
+[CDDC2022 Networking Challenges](cddc2022-network/index.md)
+
+
+## Ignore everything below here
 
 You can use the [editor on GitHub](https://github.com/solomonbstoner/solomonbstoner.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
