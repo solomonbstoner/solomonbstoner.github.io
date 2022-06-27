@@ -356,5 +356,4 @@ The flag that is actually wanted is `sha1(192.168.2.1_udpflooding)`. Yeah, I kno
 
 ## Network Challenges
 
-To be completed...
-
+Unfortunately, the organizers of the CTF took down the challenge website immediately after the CTF ended. As my team and I were busy solving challenges, we spared little time to document how we solved them. So, I am not able to provide writeups of the challenges.
